@@ -1,4 +1,4 @@
-# Katiska Markdown Archive
+# Jagster Markdown Archive
 
 Tämä arkisto sisältää Jakke Lehtosen nimimerkillä *Jagster* julkaisemia artikkeleita Markdown-muodossa osana digitaalista perintöhanketta.
 
@@ -7,7 +7,7 @@ Alkuperäinen sivusto on perustettu vuonna 1997, mutta se on vaihtanut domainia 
 ## Rakenteesta
 
 - Jokainen artikkeli on erillisenä Markdown-tiedostona.
-- Kategoriat vastaavat alkuperäisiä aihealueita (esim. `Ratsastus`, `Treeno`, `Melonta`).
+- Kategoriat vastaavat alkuperäisiä aihealueita (esim. `Ratsastus`, `Yleinen`, `Melonta`).
 - Tiedostot sisältävät front matterin, jossa on mm. otsikko, päivämäärä, kategoriat ja tagit.
 
 ## Käyttöoikeudet
