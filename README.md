@@ -29,3 +29,7 @@ Tämän arkiston tarkoitus on säilyttää ja siirtää eteenpäin yhden ihmisen
 ## Yhteydenotot
 
 Jos haluat hyödyntää sisältöä laajemmin, kaupallisesti tai muokattuna, ole hyvä ja ota yhteyttä: **jakke.lehtonen@gmail.com**
+
+## Digitaalisen perinnön sijoituspaikka
+
+[![DOI](https://zenodo.org/badge/1010022490.svg)](https://doi.org/10.5281/zenodo.15761654)
